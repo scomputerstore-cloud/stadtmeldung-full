@@ -1,0 +1,1 @@
+export default function StadtMeldung(){ return <div style={{padding:20}}>Bitte die Datei StadtMeldung.jsx aus der letzten Nachricht hier einfügen.</div> }
